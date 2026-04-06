@@ -1,8 +1,0 @@
-var booksData = [
-    { id:1, title:"Laskar Pelangi", author:"Andrea Hirata", year:2005, category:"Fiksi", pdfUrl:null, color1:"#E76F51", color2:"#F4A261", synopsis:"Kisah inspiratif tentang 10 anak dari Belitung yang berjuang mendapatkan pendidikan di sekolah yang nyaris runtuh." },
-    { id:2, title:"Bumi Manusia", author:"Pramoedya Ananta Toer", year:1980, category:"Fiksi", pdfUrl:null, color1:"#264653", color2:"#2A9D8F", synopsis:"Kisah Minke, seorang pribumi di era kolonial Hindia Belanda, yang berjuang melawan ketidakadilan." },
-    { id:3, title:"Filosofi Teras", author:"Henry Manampiring", year:2018, category:"Non-Fiksi", pdfUrl:null, color1:"#606C38", color2:"#283618", synopsis:"Pengantar stoikisme untuk kehidupan modern." },
-    { id:4, title:"Laut Bercerita", author:"Leila S. Chudori", year:2017, category:"Fiksi", pdfUrl:null, color1:"#023E8A", color2:"#0096C7", synopsis:"Novel tentang aktivis yang hilang selama era Orde Baru." },
-    { id:5, title:"Cantik Itu Luka", author:"Eka Kurniawan", year:2002, category:"Fiksi", pdfUrl:null, color1:"#9B2226", color2:"#CA6702", synopsis:"Novel magis-realis tentang Dewi Ayu yang bangkit dari kuburnya." },
-    { id:6, title:"Atomic Habits", author:"James Clear", year:2018, category:"Pengembangan Diri", pdfUrl:null, color1:"#BC4749", color2:"#F2CC8F", synopsis:"Panduan praktis membangun kebiasaan baik dan menghilangkan kebiasaan buruk." }
-];
